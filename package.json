@@ -1,0 +1,20 @@
+{
+	"name": "CPT Agenda",
+	"type": "module",
+	"version": "0.1.0",
+	"description": "Agenda Custom Post type with an Advanced Custom field 'datum'",
+	"actions": {
+		"createCustomPostType": {
+			"menuName": "Agenda",
+			"singular": "Agenda-item",
+			"plural": "Agenda-items",
+			"id": "agenda",
+			"slug": "agenda"
+		},
+		"addAdvancedCustomFields": {
+			"files": [
+				"group_589cc5e611f3d.json"
+		    ]
+		}
+	}
+}
