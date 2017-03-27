@@ -3,6 +3,9 @@
 	"type": "module",
 	"version": "0.1.0",
 	"description": "Agenda Custom Post type with an Advanced Custom field 'datum'",
+	"dependencies": {
+		"module": "acf-manager"
+	},
 	"actions": {
 		"createCustomPostType": {
 			"menuName": "Agenda",
