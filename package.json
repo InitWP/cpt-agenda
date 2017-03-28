@@ -12,7 +12,10 @@
 			"singular": "Agenda-item",
 			"plural": "Agenda-items",
 			"id": "agenda",
-			"slug": "agenda"
+			"slug": "agenda",
+			"args": {
+				"menu_position": "4",
+			}
 		},
 		"addAdvancedCustomFields": {
 			"files": [
