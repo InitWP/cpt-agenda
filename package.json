@@ -2,7 +2,7 @@
 	"name": "CPT Agenda",
 	"type": "module",
 	"version": "0.1.0",
-	"description": "Agenda Custom Post type with an Advanced Custom field 'datum'",
+	"description": "Agenda Custom Post Type with an Advanced Custom field 'datum'",
 	"dependencies": {
 		"module": "acf-manager"
 	},
