@@ -14,7 +14,7 @@
 			"id": "agenda",
 			"slug": "agenda",
 			"args": {
-				"menu_position": "4",
+				"menu_position": "4"
 			}
 		},
 		"addAdvancedCustomFields": {
